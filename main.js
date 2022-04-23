@@ -4,6 +4,7 @@ import Vue from 'vue'
 import store from '@/store/index.js'
 import uView from '@/uni_modules/uview-ui'
 import mixin from '@/common/js/uni-utils.js'
+import'./common/font/iconfont.css'
 Vue.use(uView);
 Vue.mixin(mixin)
 Vue.prototype.$store = store;
