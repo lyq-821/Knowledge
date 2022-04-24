@@ -2,6 +2,7 @@
 	<view class="content">
 		<uniHeader></uniHeader>
 		<uniBanner></uniBanner>
+		<view class="iconfont icon-arrow-right"></view>
 		<uniFooter></uniFooter>
 	</view>
 </template>
